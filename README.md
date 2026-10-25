@@ -1,20 +1,16 @@
-# Negócios e Inovação
+💡 Negócios e Inovação
 
-Material da disciplina de Negócios e Organizações / Inovação: apostila, artigos sobre Lean Startup, Design Thinking e Oceano Azul, empreendedorismo e inovação, e uma análise de planejamento estratégico.
+Este repositório reúne os materiais de apoio e estudos da disciplina de Negócios e Organizações / Inovação do curso de Tecnologia em Ciência de Dados para Negócios da FATEC Votorantim. 
 
-## Conteúdo
+O conteúdo aborda conceitos de Administração, Empreendedorismo e Inovação em Ambientes Disruptivos, metodologias como Lean Startup, Design Thinking e Estratégia do Oceano Azul, além de análises e aplicações práticas de Planejamento Estratégico.
 
-- APOSTILA NEGÓCIOS E ORGANIZAÇÕES CIÊNCIA DE DADOS PARA NEGÓCIOS (2).pdf
-- artigo_LEAN STARTUP.pdf
-- Design Thinking - Inovação em Negócios.pdf
-- EMPREENDEDORISMO E INOVAÇÃO PARA AMBIENTES DISRUPTIVOS FATEC VOTORANTIM.pdf
-- LIVRO BASE ADM.pdf
-- Negócios e Organizações.docx
-- Negócios e Organizações.pdf
-- OCEANO AZUL inovação e empreendedorismo.pdf
-- Plano de Reposição Elise Rubinato.docx
-- Toyota.Boshoku_Planejamento.Estrategico.xlsx
+📜 Licença e Uso
 
-## Autora
+Este repositório foi criado para fins de registro acadêmico e consulta de portfólio.
+- ❌ Não é permitida a cópia, reprodução ou redistribuição do conteúdo sem autorização prévia.
+- 👁️ Disponível apenas para visualização e consulta.
 
-Ana Elisa Rubinato - Ciência de Dados para Negócios (FATEC)
+✍️ Autora
+
+Ana Elisa Rubinato Cavalheiro  
+Graduanda em Tecnologia em Ciência de Dados para Negócios — FATEC Votorantim
